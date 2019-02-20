@@ -1,5 +1,5 @@
 # AutoCycleNet
-Real-time detection of recyclable vs trash items and automatic sorting of recyclable items.
+Real-time detection of recyclable vs trash items and automatic material sorting of recyclable items.
 ![logo](https://github.com/ECE-Engineer/AutoCycle/raw/master/autocycle.jpg "AutoCycle logo")
 
 ### Credits
