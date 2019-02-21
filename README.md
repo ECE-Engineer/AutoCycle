@@ -1,4 +1,4 @@
-# AutoCycleNet :emojicode: (Expect A Big Update By 2/25/19) :emojicode:
+# AutoCycleNet :recycle: (Expect A Big Update By 2/25/19) :recycle:
 Real-time detection of recyclable vs trash items and automatic material sorting of recyclable items.
 Recyclable items are sorted into the following categories:
 * Cardboard
@@ -24,4 +24,4 @@ Recyclable items are sorted into the following categories:
 - [ ] Create a physical prototype to integrate this idea
 
 ### Credits
-Thank you to user:garythung for developing the base code for resizing & for creating the base dataset used to make this endeavor possible.
+Thank you to @garythung for developing the base code for resizing & for creating the base dataset used to make this endeavor possible.
