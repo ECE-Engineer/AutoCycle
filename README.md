@@ -1,4 +1,4 @@
-# AutoCycleNet :recycle: (Expect A Big Update By 2/25/19) :recycle:
+# AutoCycleNet :recycle: (Expect A Big Update Soon) :recycle:
 Real-time detection of recyclable vs trash items and automatic material sorting of recyclable items.
 Recyclable items are sorted into the following categories:
 * Cardboard
